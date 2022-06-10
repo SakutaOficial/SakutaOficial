@@ -5,7 +5,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Sakuta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Sakuta-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-plain.svg">
+  <img align="center" alt="Sakuta-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
 </div>
 
 <div> 
