@@ -1,4 +1,13 @@
-## Desenvolvedor de softwares
+👻 &nbsp;Olá a todos.
+======
+Sou um desenvolvedores de ```softwares```
+> Meus projetos principais se encontram pôr aqui.
+
+**Pode me contatar em:**
+
+[<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/sakutaxd._/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>](https://www.t.me/SakutaOficial/)
+
 <div align="center">
   <a href="https://github.com/SakutaOficial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SakutaOficial&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
