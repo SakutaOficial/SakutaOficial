@@ -1,6 +1,6 @@
 👻 &nbsp;Olá a todos.
 ======
-Sou um desenvolvedores de ```softwares```
+Sou um desenvolvedor de ```softwares```
 > Meus projetos principais se encontram pôr aqui.
 
 **Pode me contatar em:**
