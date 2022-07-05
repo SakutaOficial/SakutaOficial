@@ -1,6 +1,6 @@
 👻 &nbsp;Olá a todos.
 ======
-Sou um desenvolvedor de ```softwares```
+Desenvolvimento ```Python``` e Data Science. 
 > Meus projetos principais se encontram pôr aqui.
 
 **redes sociais a quais estão online:**
