@@ -1,6 +1,5 @@
 👻 &nbsp;Olá a todos.
 ======
-Desenvolvimento ```Python``` e Data Science. 
 > Meus projetos principais se encontram pôr aqui.
 
 **redes sociais a quais estão online:**
