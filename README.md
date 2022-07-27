@@ -1,6 +1,6 @@
 👻 &nbsp;Olá a todos.
 ======
-> Meus projetos principais se encontram pôr aqui.
+> Alguns dos meus projetos se encontram aqui.
 
 **redes sociais a quais estão online:**
 
